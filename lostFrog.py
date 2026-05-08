@@ -1,3 +1,5 @@
+# LÖST
+
 import math
 
 class UnionFind:
