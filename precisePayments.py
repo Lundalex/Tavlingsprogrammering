@@ -1,3 +1,5 @@
+# LÖST
+
 # Catastrophic complexity version (works theoretically though)
 
 import math
