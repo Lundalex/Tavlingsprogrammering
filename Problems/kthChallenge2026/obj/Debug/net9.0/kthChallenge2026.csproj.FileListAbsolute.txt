@@ -1,0 +1,15 @@
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/bin/Debug/net9.0/kthChallenge2026
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/bin/Debug/net9.0/kthChallenge2026.deps.json
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/bin/Debug/net9.0/kthChallenge2026.runtimeconfig.json
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/bin/Debug/net9.0/kthChallenge2026.dll
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/bin/Debug/net9.0/kthChallenge2026.pdb
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.AssemblyInfoInputs.cache
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.AssemblyInfo.cs
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.csproj.CoreCompileInputs.cache
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.sourcelink.json
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.dll
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/refint/kthChallenge2026.dll
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.pdb
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/kthChallenge2026.genruntimeconfig.cache
+/Users/noahmarklund/Tavlingsprogrammering/Problems/kthChallenge2026/obj/Debug/net9.0/ref/kthChallenge2026.dll
