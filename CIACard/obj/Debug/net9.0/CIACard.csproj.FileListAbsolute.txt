@@ -1,0 +1,15 @@
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\bin\Debug\net9.0\CIACard.exe
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\bin\Debug\net9.0\CIACard.deps.json
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\bin\Debug\net9.0\CIACard.runtimeconfig.json
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\bin\Debug\net9.0\CIACard.dll
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\bin\Debug\net9.0\CIACard.pdb
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.AssemblyInfoInputs.cache
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.AssemblyInfo.cs
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.csproj.CoreCompileInputs.cache
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.sourcelink.json
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.dll
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\refint\CIACard.dll
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.pdb
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\CIACard.genruntimeconfig.cache
+C:\Users\xtrea\Tavlingsprogrammering\CIACard\obj\Debug\net9.0\ref\CIACard.dll

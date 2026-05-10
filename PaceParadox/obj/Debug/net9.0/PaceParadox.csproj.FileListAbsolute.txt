@@ -1,0 +1,15 @@
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\bin\Debug\net9.0\PaceParadox.exe
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\bin\Debug\net9.0\PaceParadox.deps.json
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\bin\Debug\net9.0\PaceParadox.runtimeconfig.json
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\bin\Debug\net9.0\PaceParadox.dll
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\bin\Debug\net9.0\PaceParadox.pdb
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.AssemblyInfoInputs.cache
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.AssemblyInfo.cs
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.csproj.CoreCompileInputs.cache
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.sourcelink.json
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.dll
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\refint\PaceParadox.dll
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.pdb
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\PaceParadox.genruntimeconfig.cache
+C:\Users\xtrea\Tavlingsprogrammering\PaceParadox\obj\Debug\net9.0\ref\PaceParadox.dll
